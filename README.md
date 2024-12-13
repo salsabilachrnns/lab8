@@ -2,7 +2,7 @@
 # PROGRAM SEDERHANA PENGGUNAAN CLASS
 
 
-Program ini adalah implementasi sederhana dari pengelolaan data mahasiswa menggunakan konsep pemrograman berorientasi objek (OOP) dalam Python. Program terdiri dari beberapa kelas yang saling berinteraksi untuk menangani data mahasiswa secara efektif. Berikut adalah penjelasan detail dari setiap bagian program. berikut ini gambar perintah phytonnya : 
+Program ini adalah implementasi sederhana dari pengelolaan data mahasiswa menggunakan konsep pemrograman berorientasi objek (OOP) dalam Python. Program terdiri dari beberapa kelas yang saling berinteraksi untuk menangani data mahasiswa secara efektif. Berikut adalah penjelasan detail dan gambar perintah phytonnya : 
 
 ![perintah 1](https://github.com/user-attachments/assets/1b3fb66d-15e6-4816-bd24-b19ed1a2e4dc)
 ![perintah 2](https://github.com/user-attachments/assets/a5944706-bcac-4449-92aa-588af85001a1)
