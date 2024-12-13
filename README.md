@@ -87,7 +87,7 @@ Di bagian ini, program membuat beberapa instansi dari kelas `Mahasiswa` dan mena
 
 ## 7. Flowchart perintah program : 
 
-
+![flowchart](https://github.com/user-attachments/assets/aa83c048-51dd-4d79-9322-9ab9f062267f)
 
 ## Kesimpulan
 
