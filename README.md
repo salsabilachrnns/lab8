@@ -1,7 +1,18 @@
-# Deskripsi Program Daftar Nilai Mahasiswa
+# SALSABILA CHAIRUNISSA - NIM : 352310473
+# PROGRAM SEDERHANA PENGGUNAAN CLASS
 
-Program ini adalah implementasi sederhana dari pengelolaan data mahasiswa menggunakan konsep pemrograman berorientasi objek (OOP) dalam Python. Program terdiri dari beberapa kelas yang saling berinteraksi untuk menangani data mahasiswa secara efektif. Berikut adalah penjelasan detail dari setiap bagian program.
 
+Program ini adalah implementasi sederhana dari pengelolaan data mahasiswa menggunakan konsep pemrograman berorientasi objek (OOP) dalam Python. Program terdiri dari beberapa kelas yang saling berinteraksi untuk menangani data mahasiswa secara efektif. Berikut adalah penjelasan detail dari setiap bagian program. berikut ini gambar perintah phytonnya : 
+
+![perintah 1](https://github.com/user-attachments/assets/1b3fb66d-15e6-4816-bd24-b19ed1a2e4dc)
+![perintah 2](https://github.com/user-attachments/assets/a5944706-bcac-4449-92aa-588af85001a1)
+![perintah 3](https://github.com/user-attachments/assets/694e20c1-1629-444c-93d5-eb8b1c368f3a)
+![perintah 4](https://github.com/user-attachments/assets/56276f51-9085-4daf-b876-7d522d8b21fd)
+![perintah 5](https://github.com/user-attachments/assets/5a29b561-b262-4429-a1ab-bdd876e4e5ed)
+
+
+
+## Deskripsi Perintah Program :
 ## 1. Kelas `Person`
 
 ### Deskripsi
@@ -65,6 +76,18 @@ Di bagian ini, program membuat beberapa instansi dari kelas `Mahasiswa` dan mena
 
 5. **Menghapus Data Mahasiswa**: 
    - Data mahasiswa dihapus berdasarkan NIM dan daftar ditampilkan lagi untuk memverifikasi penghapusan.
+  
+## 5. Hasil Output Run (F5) :
+
+![output](https://github.com/user-attachments/assets/3a90257e-091c-4473-a8fe-6a2aac3a025a)
+
+## 6. Diagram class : 
+
+![diagram kelas (mind mapping)](https://github.com/user-attachments/assets/b23098cb-e3e0-4369-bc71-f9863c28ebba)
+
+## 7. Flowchart perintah program : 
+
+
 
 ## Kesimpulan
 
